@@ -1,2 +1,2 @@
 # nlp-lab-ner
-NER lab
+This lab is part of the NLP course at ENSAE-IP Paris. 
